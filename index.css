@@ -1,0 +1,12 @@
+.red-box {
+    width: 350px;
+    height: 514px;
+    background-color: red;
+  }
+
+  .green-box {
+    width: 350px;
+    height: 514px;
+    background-color: rgb(78, 189, 78);
+  }
+  
